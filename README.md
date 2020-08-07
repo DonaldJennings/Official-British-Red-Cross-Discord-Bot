@@ -11,8 +11,10 @@ Click to join the [British Red Cross Discord](https://discord.gg/yEK46uT)
 ## Commands List
 | Command | Description | Usage |
 | ------- | ----------- | ----- |
-| Cause | Displays latest information on the Operation Covid 19 Cause | -cause |
-| Leaderboard | Displays latest leaderboard information on largest fundraising individuals and teams | -leaderboard <individual/team> |
+| covid19 | Displays latest information on the Operation Covid 19 Cause | -cv19 |
+| covid19leaderboard | Displays latest leaderboard information on largest fundraising individuals and teams | -cv19lb <individual/team> |
+| beirut | Displays latest information on the Operation Beirut Fundraiser | -beirut |
+| help | Displays more information on commands / gives list of commands | -help <command name> |
 
 ## Release History
 * 1.0
