@@ -16,12 +16,11 @@ Click to join the [British Red Cross Discord](https://discord.gg/yEK46uT)
 
 ## Release History
 * 1.0
-  * RELEASED : Cause & Leaderboard Functionality
+  * RELEASED : Operation COVID-19 Fundraiser & Leaderboard Functionality
 * 1.1
-  * COMING SOON: Information on specific campaigns
+  * RELEASED : Operation Beirut Update
+* 1.2
+  * COMING SOON : Future Campaigns / Fundraisers
 
 ## Information on Dev
 Donald Jennings - [@donald_jenningz](https://twitter.com/donald_jenningz) - donald.jennings2020@gmail.com - DonaldJennings#7915
-
-[https://github.com/DonaldJennings/Hephaestus-Bot](https://github.com/DonaldJennings)
-"# Official British Red Cross Bot" 
