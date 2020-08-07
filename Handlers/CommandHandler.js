@@ -25,8 +25,8 @@ exports.run = async (client) => {
     }
     //Dict storing command categories as defined in the sub-directories of the commands folder
     var command_categories = {
-        tiltify: "Tiltify",
-        general: "General",
+        tiltify: "tiltify",
+        general: "general",
     }
 
     //Iterates through 
