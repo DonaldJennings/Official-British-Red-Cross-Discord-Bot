@@ -1,0 +1,17 @@
+{
+  "name": "british-red-cross-bot",
+  "version": "1.0.0",
+  "description": "BritishRedCross Bot",
+  "main": "app.js",
+  "author": "Donald Jennings",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv-flow": "^3.2.0",
+    "tiltify-api-client": "^1.0.12"
+  }
+}
